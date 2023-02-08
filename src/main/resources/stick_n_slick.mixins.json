@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.dreamtea.stick_n_slick.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "PistonHandlerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
